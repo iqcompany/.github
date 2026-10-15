@@ -37,7 +37,7 @@ We are a development company of Mensa members. We build everything from circuits
 | [**Sendloo**](https://sendloo.com) | ファイルを送るだけ。期限が来たら自動で消える / Send files that expire automatically |
 | [**Pexlio**](https://pexlio.com) | 勤怠データから給与計算と明細発行まで / From attendance data to payroll and payslips |
 | [**SYNQUARA**](https://iqcompany.jp/synquara/) | 受注から入金、仕入、在庫までをつなぐ販売管理システム / Sales management from orders to inventory |
-| **WHOLIQ** | 受注の取込からピッキング・検品・出荷データ出力までの倉庫管理システム / Warehouse management from order import to picking, inspection and shipping data |
+| [**WHOLIQ**](https://iqcompany.jp/wholiq/) | 受注の取込からピッキング・検品・出荷データ出力までの倉庫管理システム / Warehouse management from order import to picking, inspection and shipping data |
 
 ## お問い合わせ / Contact
 
